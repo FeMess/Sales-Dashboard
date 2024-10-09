@@ -1,0 +1,6 @@
+streamlit
+pandas
+pathlib
+plotly
+
+all the libraries can be the lastest version.
