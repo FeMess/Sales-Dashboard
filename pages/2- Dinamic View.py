@@ -7,9 +7,6 @@ st.set_page_config(
     layout= 'centered'
 )
 
-
-st.sidebar.markdown('Developed by ***Felipe Mesquita***')
-
 initialize_dataset()
 
 df_sales = st.session_state['datasets_dict']['sales']
